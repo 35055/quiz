@@ -1,0 +1,19 @@
+.registration{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.input__regis{
+    border-radius: 10px;
+    padding: 20px 30px;
+    font-size: 20px;
+    color: black;
+    border: none;
+}
+
+.button__regis{
+    padding: 20px;
+    margin-top: 20px;
+}
